@@ -1,0 +1,1464 @@
+site_id,fire,severity,sample_period,date,transect,m,species_name,DAFOR,comments
+H_H1,hm,high,1,4/23/2023,1,0-5,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,1,10-May,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,1,15-Oct,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,1,15-20,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,1,20-25,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,1,25-30,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,1,30-35,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,1,35-40,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,1,40-45,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,1,45-50,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,2,0-5,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,2,10-May,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,2,15-Oct,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,2,15-20,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,2,20-25,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,2,25-30,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,2,30-35,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,2,35-40,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,2,40-45,NA,NA,no flowers
+H_H1,hm,high,1,4/23/2023,2,45-50,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,1,0-5,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,1,10-May,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,1,15-Oct,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,1,15-20,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,1,20-25,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,1,25-30,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,1,30-35,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,1,35-40,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,1,40-45,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,1,45-50,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,2,0-5,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,2,10-May,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,2,15-Oct,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,2,15-20,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,2,20-25,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,2,25-30,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,2,30-35,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,2,35-40,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,2,40-45,NA,NA,no flowers
+H_H2,hm,high,1,4/23/2023,2,45-50,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,1,0-5,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,1,10-May,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,1,15-Oct,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,1,15-20,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,1,20-25,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,1,25-30,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,1,30-35,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,1,35-40,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,1,40-45,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,1,45-50,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,2,0-5,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,2,10-May,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,2,15-Oct,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,2,15-20,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,2,20-25,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,2,25-30,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,2,30-35,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,2,35-40,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,2,40-45,NA,NA,no flowers
+H_L1,hm,low,1,4/23/2023,2,45-50,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,1,0-5,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,1,10-May,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,1,15-Oct,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,1,15-20,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,1,20-25,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,1,25-30,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,1,30-35,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,1,35-40,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,1,40-45,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,1,45-50,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,2,0-5,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,2,10-May,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,2,15-Oct,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,2,15-20,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,2,20-25,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,2,25-30,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,2,30-35,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,2,35-40,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,2,40-45,NA,NA,no flowers
+B_U1,bc,unburned,1,4/27/2023,2,45-50,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,1,0-5,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,1,10-May,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,1,15-Oct,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,1,15-20,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,1,20-25,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,1,25-30,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,1,30-35,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,1,35-40,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,1,40-45,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,1,45-50,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,2,0-5,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,2,10-May,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,2,15-Oct,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,2,15-20,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,2,20-25,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,2,25-30,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,2,30-35,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,2,35-40,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,2,40-45,NA,NA,no flowers
+B_U3,bc,unburned,1,4/27/2023,2,45-50,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,2,0-5,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,2,10-May,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,2,15-Oct,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,2,15-20,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,2,20-25,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,2,25-30,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,2,30-35,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,2,35-40,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,2,40-45,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,2,45-50,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,1,0-5,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,1,10-May,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,1,15-Oct,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,1,15-20,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,1,20-25,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,1,25-30,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,1,30-35,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,1,35-40,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,1,40-45,NA,NA,no flowers
+H_H3,hm,high,1,4/30/2023,1,45-50,NA,NA,no flowers
+H_L3,hm,low,1,4/30/2023,1,0-5,NA,NA,
+H_L3,hm,low,1,4/30/2023,1,10-May,NA,NA,
+H_L3,hm,low,1,4/30/2023,1,15-Oct,NA,NA,
+H_L3,hm,low,1,4/30/2023,1,15-20,NA,NA,
+H_L3,hm,low,1,4/30/2023,1,20-25,NA,NA,
+H_L3,hm,low,1,4/30/2023,1,25-30,NA,NA,
+H_L3,hm,low,1,4/30/2023,1,30-35,NA,NA,
+H_L3,hm,low,1,4/30/2023,1,35-40,NA,NA,
+H_L3,hm,low,1,4/30/2023,1,40-45,NA,NA,
+H_L3,hm,low,1,4/30/2023,1,45-50,NA,NA,
+H_L3,hm,low,1,4/30/2023,2,0-5,NA,NA,
+H_L3,hm,low,1,4/30/2023,2,10-May,NA,NA,
+H_L3,hm,low,1,4/30/2023,2,15-Oct,NA,NA,
+H_L3,hm,low,1,4/30/2023,2,15-20,NA,NA,
+H_L3,hm,low,1,4/30/2023,2,20-25,Pulsatilla ludoviciana,R,
+H_L3,hm,low,1,4/30/2023,2,25-30,NA,NA,
+H_L3,hm,low,1,4/30/2023,2,30-35,Noccaea fendleri,R,
+H_L3,hm,low,1,4/30/2023,2,35-40,NA,NA,
+H_L3,hm,low,1,4/30/2023,2,40-45,NA,NA,
+H_L3,hm,low,1,4/30/2023,2,45-50,NA,NA,
+H_L2,hm,low,1,4/30/2023,1,0-5,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,1,10-May,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,1,15-Oct,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,1,15-20,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,1,20-25,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,1,25-30,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,1,30-35,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,1,35-40,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,1,40-45,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,1,45-50,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,2,0-5,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,2,10-May,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,2,15-Oct,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,2,15-20,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,2,20-25,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,2,25-30,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,2,30-35,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,2,35-40,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,2,40-45,NA,NA,no flowers
+H_L2,hm,low,1,4/30/2023,2,45-50,NA,NA,no flowers
+B_L2,bc,low,1,5/2/2023,2,0-5,Noccaea fendleri,R,
+B_L2,bc,low,1,5/2/2023,2,10-May,NA,NA,
+B_L2,bc,low,1,5/2/2023,2,15-Oct,NA,NA,
+B_L2,bc,low,1,5/2/2023,2,15-20,NA,NA,
+B_L2,bc,low,1,5/2/2023,2,20-25,NA,NA,
+B_L2,bc,low,1,5/2/2023,2,25-30,NA,NA,
+B_L2,bc,low,1,5/2/2023,2,30-35,NA,NA,
+B_L2,bc,low,1,5/2/2023,2,35-40,NA,NA,
+B_L2,bc,low,1,5/2/2023,2,40-45,NA,NA,
+B_L2,bc,low,1,5/2/2023,2,45-50,NA,NA,
+B_L2,bc,low,1,5/2/2023,1,0-5,NA,NA,
+B_L2,bc,low,1,5/2/2023,1,10-May,Noccaea fendleri,R,
+B_L2,bc,low,1,5/2/2023,1,15-Oct,NA,NA,
+B_L2,bc,low,1,5/2/2023,1,15-20,NA,NA,
+B_L2,bc,low,1,5/2/2023,1,20-25,NA,NA,
+B_L2,bc,low,1,5/2/2023,1,25-30,NA,NA,
+B_L2,bc,low,1,5/2/2023,1,30-35,NA,NA,
+B_L2,bc,low,1,5/2/2023,1,35-40,NA,NA,
+B_L2,bc,low,1,5/2/2023,1,40-45,NA,NA,
+B_L2,bc,low,1,5/2/2023,1,45-50,Noccaea fendleri,R,
+B_L3,bc,low,1,5/2/2023,1,0-5,NA,NA,
+B_L3,bc,low,1,5/2/2023,1,10-May,NA,NA,
+B_L3,bc,low,1,5/2/2023,1,15-Oct,NA,NA,
+B_L3,bc,low,1,5/2/2023,1,15-20,NA,NA,
+B_L3,bc,low,1,5/2/2023,1,20-25,NA,NA,
+B_L3,bc,low,1,5/2/2023,1,25-30,NA,NA,
+B_L3,bc,low,1,5/2/2023,1,30-35,NA,NA,
+B_L3,bc,low,1,5/2/2023,1,35-40,Pulsatilla ludoviciana,R,
+B_L3,bc,low,1,5/2/2023,1,40-45,Pulsatilla ludoviciana,O,
+B_L3,bc,low,1,5/2/2023,1,45-50,NA,NA,
+B_L3,bc,low,1,5/2/2023,2,0-5,NA,NA,
+B_L3,bc,low,1,5/2/2023,2,10-May,NA,NA,
+B_L3,bc,low,1,5/2/2023,2,15-Oct,NA,NA,
+B_L3,bc,low,1,5/2/2023,2,15-20,NA,NA,
+B_L3,bc,low,1,5/2/2023,2,20-25,NA,NA,
+B_L3,bc,low,1,5/2/2023,2,25-30,NA,NA,
+B_L3,bc,low,1,5/2/2023,2,30-35,NA,NA,
+B_L3,bc,low,1,5/2/2023,2,35-40,NA,NA,
+B_L3,bc,low,1,5/2/2023,2,40-45,NA,NA,
+B_L3,bc,low,1,5/2/2023,2,45-50,NA,NA,
+B_L1,bc,low,1,5/2/2023,1,0-5,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,1,10-May,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,1,15-Oct,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,1,15-20,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,1,20-25,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,1,25-30,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,1,30-35,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,1,35-40,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,1,40-45,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,1,45-50,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,2,0-5,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,2,10-May,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,2,15-Oct,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,2,15-20,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,2,20-25,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,2,25-30,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,2,30-35,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,2,35-40,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,2,40-45,NA,NA,no flowers
+B_L1,bc,low,1,5/2/2023,2,45-50,NA,NA,no flowers
+H_U1,hm,unburned,1,5/7/2023,1,0-5,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,1,10-May,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,1,15-Oct,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,1,15-20,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,1,20-25,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,1,25-30,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,1,30-35,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,1,35-40,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,1,40-45,Noccaea fendleri,R,
+H_U1,hm,unburned,1,5/7/2023,1,45-50,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,2,0-5,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,2,10-May,Noccaea fendleri,R,
+H_U1,hm,unburned,1,5/7/2023,2,15-Oct,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,2,15-20,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,2,20-25,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,2,25-30,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,2,30-35,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,2,35-40,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,2,40-45,NA,NA,
+H_U1,hm,unburned,1,5/7/2023,2,45-50,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,1,0-5,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,1,10-May,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,1,15-Oct,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,1,15-20,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,1,20-25,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,1,25-30,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,1,30-35,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,1,35-40,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,1,40-45,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,1,45-50,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,2,0-5,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,2,10-May,Pulsatilla ludoviciana,R,
+B_U2,bc,unburned,1,5/7/2023,2,15-Oct,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,2,15-20,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,2,20-25,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,2,25-30,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,2,30-35,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,2,35-40,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,2,40-45,NA,NA,
+B_U2,bc,unburned,1,5/7/2023,2,45-50,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,2,0-5,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,2,10-May,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,2,15-Oct,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,2,15-20,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,2,20-25,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,2,25-30,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,2,30-35,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,2,35-40,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,2,40-45,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,2,45-50,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,1,0-5,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,1,10-May,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,1,15-Oct,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,1,15-20,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,1,20-25,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,1,25-30,Pulsatilla ludoviciana,R,
+H_U2,hm,unburned,1,5/9/2023,1,30-35,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,1,35-40,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,1,40-45,NA,NA,
+H_U2,hm,unburned,1,5/9/2023,1,45-50,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,1,0-5,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,1,10-May,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,1,15-Oct,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,1,15-20,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,1,20-25,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,1,25-30,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,1,30-35,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,1,35-40,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,1,40-45,Noccaea fendleri,R,
+H_U3,hm,unburned,1,5/9/2023,1,45-50,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,2,0-5,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,2,10-May,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,2,15-Oct,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,2,15-20,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,2,20-25,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,2,25-30,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,2,30-35,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,2,35-40,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,2,40-45,NA,NA,
+H_U3,hm,unburned,1,5/9/2023,2,45-50,NA,NA,
+B_H3,bc,high,1,5/16/2023,1,0-5,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,1,10-May,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,1,15-Oct,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,1,15-20,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,1,20-25,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,1,25-30,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,1,30-35,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,1,35-40,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,1,40-45,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,1,45-50,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,2,0-5,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,2,10-May,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,2,15-Oct,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,2,15-20,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,2,20-25,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,2,25-30,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,2,30-35,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,2,35-40,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,2,40-45,NA,NA,no flowers
+B_H3,bc,high,1,5/16/2023,2,45-50,NA,NA,no flowers
+B_H1,bc,high,1,5/21/2023,1,0-5,NA,NA,
+B_H1,bc,high,1,5/21/2023,1,10-May,NA,NA,
+B_H1,bc,high,1,5/21/2023,1,15-Oct,NA,NA,
+B_H1,bc,high,1,5/21/2023,1,15-20,NA,NA,
+B_H1,bc,high,1,5/21/2023,1,20-25,NA,NA,
+B_H1,bc,high,1,5/21/2023,1,25-30,NA,NA,
+B_H1,bc,high,1,5/21/2023,1,30-35,NA,NA,
+B_H1,bc,high,1,5/21/2023,1,35-40,NA,NA,
+B_H1,bc,high,1,5/21/2023,1,40-45,NA,NA,
+B_H1,bc,high,1,5/21/2023,1,45-50,NA,NA,
+B_H1,bc,high,1,5/21/2023,2,0-5,NA,NA,
+B_H1,bc,high,1,5/21/2023,2,10-May,NA,NA,
+B_H1,bc,high,1,5/21/2023,2,15-Oct,NA,NA,
+B_H1,bc,high,1,5/21/2023,2,15-20,NA,NA,
+B_H1,bc,high,1,5/21/2023,2,20-25,NA,NA,
+B_H1,bc,high,1,5/21/2023,2,25-30,Androsace septentrionalis,R,
+B_H1,bc,high,1,5/21/2023,2,30-35,NA,NA,
+B_H1,bc,high,1,5/21/2023,2,35-40,NA,NA,
+B_H1,bc,high,1,5/21/2023,2,40-45,NA,NA,
+B_H1,bc,high,1,5/21/2023,2,45-50,NA,NA,
+B_H2,bc,high,1,5/21/2023,1,0-5,NA,NA,
+B_H2,bc,high,1,5/21/2023,1,10-May,NA,NA,
+B_H2,bc,high,1,5/21/2023,1,15-Oct,NA,NA,
+B_H2,bc,high,1,5/21/2023,1,15-20,Taraxacum officinale,R,
+B_H2,bc,high,1,5/21/2023,1,20-25,NA,NA,
+B_H2,bc,high,1,5/21/2023,1,25-30,NA,NA,
+B_H2,bc,high,1,5/21/2023,1,30-35,Androsace septentrionalis,R,
+B_H2,bc,high,1,5/21/2023,1,35-40,NA,NA,
+B_H2,bc,high,1,5/21/2023,1,40-45,NA,NA,
+B_H2,bc,high,1,5/21/2023,1,45-50,Antennaria parvifolia,A,
+B_H2,bc,high,1,5/21/2023,2,0-5,NA,NA,
+B_H2,bc,high,1,5/21/2023,2,10-May,NA,NA,
+B_H2,bc,high,1,5/21/2023,2,15-Oct,NA,NA,
+B_H2,bc,high,1,5/21/2023,2,15-20,NA,NA,
+B_H2,bc,high,1,5/21/2023,2,20-25,NA,NA,
+B_H2,bc,high,1,5/21/2023,2,25-30,NA,NA,
+B_H2,bc,high,1,5/21/2023,2,30-35,NA,NA,
+B_H2,bc,high,1,5/21/2023,2,35-40,NA,NA,
+B_H2,bc,high,1,5/21/2023,2,40-45,Arctostaphylos uva-ursi,R,
+B_H2,bc,high,1,5/21/2023,2,45-50,NA,NA,
+H_L1,hm,low,2,5/23/2023,1,0-5,NA,NA,
+H_L1,hm,low,2,5/23/2023,1,10-May,NA,NA,
+H_L1,hm,low,2,5/23/2023,1,15-Oct,NA,NA,
+H_L1,hm,low,2,5/23/2023,1,15-20,NA,NA,
+H_L1,hm,low,2,5/23/2023,1,20-25,Androsace septentrionalis,R,
+H_L1,hm,low,2,5/23/2023,1,25-30,NA,NA,
+H_L1,hm,low,2,5/23/2023,1,30-35,NA,NA,
+H_L1,hm,low,2,5/23/2023,1,35-40,NA,NA,
+H_L1,hm,low,2,5/23/2023,1,40-45,NA,NA,
+H_L1,hm,low,2,5/23/2023,1,45-50,Arctostaphylos uva-ursi,O,
+H_L1,hm,low,2,5/23/2023,2,0-5,NA,NA,
+H_L1,hm,low,2,5/23/2023,2,10-May,Arctostaphylos uva-ursi,F,
+H_L1,hm,low,2,5/23/2023,2,15-Oct,Arctostaphylos uva-ursi,O,
+H_L1,hm,low,2,5/23/2023,2,15-20,NA,NA,
+H_L1,hm,low,2,5/23/2023,2,20-25,Arctostaphylos uva-ursi,O,
+H_L1,hm,low,2,5/23/2023,2,25-30,NA,NA,
+H_L1,hm,low,2,5/23/2023,2,30-35,Arctostaphylos uva-ursi,R,
+H_L1,hm,low,2,5/23/2023,2,35-40,Arctostaphylos uva-ursi,O,
+H_L1,hm,low,2,5/23/2023,2,40-45,Arctostaphylos uva-ursi,O,
+H_L1,hm,low,2,5/23/2023,2,45-50,NA,NA,
+H_H2,hm,high,2,5/23/2023,1,0-5,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,1,10-May,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,1,15-Oct,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,1,15-20,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,1,20-25,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,1,25-30,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,1,30-35,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,1,35-40,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,1,40-45,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,1,45-50,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,2,0-5,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,2,10-May,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,2,15-Oct,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,2,15-20,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,2,20-25,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,2,25-30,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,2,30-35,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,2,35-40,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,2,40-45,NA,NA,no flowers
+H_H2,hm,high,2,5/23/2023,2,45-50,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,1,0-5,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,1,10-May,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,1,15-Oct,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,1,15-20,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,1,20-25,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,1,25-30,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,1,30-35,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,1,35-40,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,1,40-45,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,1,45-50,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,2,0-5,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,2,10-May,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,2,15-Oct,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,2,15-20,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,2,20-25,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,2,25-30,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,2,30-35,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,2,35-40,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,2,40-45,NA,NA,no flowers
+H_H1,hm,high,2,5/23/2023,2,45-50,NA,NA,no flowers
+B_U1,bc,unburned,2,5/28/2023,1,0-5,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,1,10-May,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,1,15-Oct,Arctostaphylos uva-ursi,R,
+B_U1,bc,unburned,2,5/28/2023,1,15-20,Collinsia parviflora,R,
+B_U1,bc,unburned,2,5/28/2023,1,20-25,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,1,25-30,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,1,30-35,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,1,35-40,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,1,40-45,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,1,45-50,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,2,0-5,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,2,10-May,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,2,15-Oct,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,2,15-20,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,2,20-25,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,2,25-30,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,2,30-35,Arctostaphylos uva-ursi,R,
+B_U1,bc,unburned,2,5/28/2023,2,35-40,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,2,40-45,NA,NA,
+B_U1,bc,unburned,2,5/28/2023,2,45-50,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,1,0-5,Arctostaphylos uva-ursi,F,
+B_U2,bc,unburned,2,5/28/2023,1,0-5,Androsace septentrionalis,R,
+B_U2,bc,unburned,2,5/28/2023,1,10-May,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,1,15-Oct,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,1,15-20,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,1,20-25,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,1,25-30,Arctostaphylos uva-ursi,O,
+B_U2,bc,unburned,2,5/28/2023,1,30-35,Arctostaphylos uva-ursi,O,
+B_U2,bc,unburned,2,5/28/2023,1,35-40,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,1,40-45,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,1,45-50,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,2,0-5,Arctostaphylos uva-ursi,O,
+B_U2,bc,unburned,2,5/28/2023,2,10-May,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,2,15-Oct,Arctostaphylos uva-ursi,R,
+B_U2,bc,unburned,2,5/28/2023,2,15-Oct,Androsace septentrionalis,R,
+B_U2,bc,unburned,2,5/28/2023,2,15-20,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,2,20-25,Arctostaphylos uva-ursi,R,
+B_U2,bc,unburned,2,5/28/2023,2,25-30,Arctostaphylos uva-ursi,R,
+B_U2,bc,unburned,2,5/28/2023,2,30-35,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,2,35-40,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,2,40-45,NA,NA,
+B_U2,bc,unburned,2,5/28/2023,2,45-50,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,1,0-5,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,1,10-May,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,1,15-Oct,Antennaria parvifolia,R,
+B_U3,bc,unburned,2,5/28/2023,1,15-20,Antennaria parvifolia,O,
+B_U3,bc,unburned,2,5/28/2023,1,20-25,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,1,25-30,Antennaria parvifolia,O,
+B_U3,bc,unburned,2,5/28/2023,1,30-35,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,1,35-40,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,1,40-45,Antennaria parvifolia,R,
+B_U3,bc,unburned,2,5/28/2023,1,45-50,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,2,0-5,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,2,10-May,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,2,15-Oct,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,2,15-20,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,2,20-25,NA,NA,
+B_U3,bc,unburned,2,5/28/2023,2,25-30,Antennaria parvifolia,O,
+B_U3,bc,unburned,2,5/28/2023,2,30-35,Antennaria parvifolia,O,
+B_U3,bc,unburned,2,5/28/2023,2,35-40,Antennaria parvifolia,O,
+B_U3,bc,unburned,2,5/28/2023,2,40-45,Antennaria parvifolia,F,
+B_U3,bc,unburned,2,5/28/2023,2,45-50,NA,NA,
+H_L3,hm,low,2,6/2/2023,1,0-5,Arctostaphylos uva-ursi,D,
+H_L3,hm,low,2,6/2/2023,1,10-May,NA,NA,
+H_L3,hm,low,2,6/2/2023,1,15-Oct,NA,NA,
+H_L3,hm,low,2,6/2/2023,1,15-20,NA,NA,
+H_L3,hm,low,2,6/2/2023,1,20-25,NA,NA,
+H_L3,hm,low,2,6/2/2023,1,25-30,NA,NA,
+H_L3,hm,low,2,6/2/2023,1,30-35,Arctostaphylos uva-ursi,O,
+H_L3,hm,low,2,6/2/2023,1,35-40,NA,NA,
+H_L3,hm,low,2,6/2/2023,1,40-45,Androsace septentrionalis,R,
+H_L3,hm,low,2,6/2/2023,1,45-50,Antennaria parvifolia,R,
+H_L3,hm,low,2,6/2/2023,2,0-5,NA,NA,
+H_L3,hm,low,2,6/2/2023,2,10-May,NA,NA,
+H_L3,hm,low,2,6/2/2023,2,15-Oct,NA,NA,
+H_L3,hm,low,2,6/2/2023,2,15-20,NA,NA,
+H_L3,hm,low,2,6/2/2023,2,20-25,NA,NA,
+H_L3,hm,low,2,6/2/2023,2,25-30,NA,NA,
+H_L3,hm,low,2,6/2/2023,2,30-35,NA,NA,
+H_L3,hm,low,2,6/2/2023,2,35-40,NA,NA,
+H_L3,hm,low,2,6/2/2023,2,40-45,NA,NA,
+H_L3,hm,low,2,6/2/2023,2,45-50,NA,NA,
+H_L2,hm,low,2,6/2/2023,1,0-5,NA,NA,
+H_L2,hm,low,2,6/2/2023,1,10-May,NA,NA,
+H_L2,hm,low,2,6/2/2023,1,15-Oct,NA,NA,
+H_L2,hm,low,2,6/2/2023,1,15-20,NA,NA,
+H_L2,hm,low,2,6/2/2023,1,20-25,Androsace septentrionalis,R,
+H_L2,hm,low,2,6/2/2023,1,25-30,NA,NA,
+H_L2,hm,low,2,6/2/2023,1,30-35,NA,NA,
+H_L2,hm,low,2,6/2/2023,1,35-40,NA,NA,
+H_L2,hm,low,2,6/2/2023,1,40-45,Arctostaphylos uva-ursi,R,
+H_L2,hm,low,2,6/2/2023,1,45-50,Androsace septentrionalis,R,
+H_L2,hm,low,2,6/2/2023,2,0-5,NA,NA,
+H_L2,hm,low,2,6/2/2023,2,10-May,NA,NA,
+H_L2,hm,low,2,6/2/2023,2,15-Oct,NA,NA,
+H_L2,hm,low,2,6/2/2023,2,15-20,NA,NA,
+H_L2,hm,low,2,6/2/2023,2,20-25,NA,NA,
+H_L2,hm,low,2,6/2/2023,2,25-30,NA,NA,
+H_L2,hm,low,2,6/2/2023,2,30-35,NA,NA,
+H_L2,hm,low,2,6/2/2023,2,35-40,NA,NA,
+H_L2,hm,low,2,6/2/2023,2,40-45,NA,NA,
+H_L2,hm,low,2,6/2/2023,2,45-50,Antennaria parvifolia,R,
+B_L3,bc,low,2,6/6/2023,1,0-5,Antennaria parvifolia,O,
+B_L3,bc,low,2,6/6/2023,1,0-5,Harbouria trachypleura,R,
+B_L3,bc,low,2,6/6/2023,1,10-May,Mertensia lanceolata,R,
+B_L3,bc,low,2,6/6/2023,1,10-May,Antennaria rosea,R,
+B_L3,bc,low,2,6/6/2023,1,15-Oct,Antennaria parvifolia,O,
+B_L3,bc,low,2,6/6/2023,1,15-Oct,Oxytropis multiceps,R,
+B_L3,bc,low,2,6/6/2023,1,15-20,Harbouria trachypleura,R,
+B_L3,bc,low,2,6/6/2023,1,20-25,Harbouria trachypleura,R,
+B_L3,bc,low,2,6/6/2023,1,25-30,NA,NA,
+B_L3,bc,low,2,6/6/2023,1,30-35,NA,NA,
+B_L3,bc,low,2,6/6/2023,1,35-40,NA,NA,
+B_L3,bc,low,2,6/6/2023,1,40-45,Antennaria parvifolia,R,
+B_L3,bc,low,2,6/6/2023,1,45-50,NA,NA,
+B_L3,bc,low,2,6/6/2023,2,0-5,NA,NA,
+B_L3,bc,low,2,6/6/2023,2,10-May,NA,NA,
+B_L3,bc,low,2,6/6/2023,2,15-Oct,Harbouria trachypleura,R,
+B_L3,bc,low,2,6/6/2023,2,15-20,Harbouria trachypleura,R,
+B_L3,bc,low,2,6/6/2023,2,20-25,Harbouria trachypleura,R,
+B_L3,bc,low,2,6/6/2023,2,25-30,NA,NA,
+B_L3,bc,low,2,6/6/2023,2,30-35,NA,NA,
+B_L3,bc,low,2,6/6/2023,2,35-40,Antennaria parvifolia,R,
+B_L3,bc,low,2,6/6/2023,2,40-45,Geum triflorum,F,
+B_L3,bc,low,2,6/6/2023,2,40-45,Antennaria parvifolia,R,
+B_L3,bc,low,2,6/6/2023,2,45-50,Geum triflorum,O,
+B_L3,bc,low,2,6/6/2023,2,45-50,Antennaria parvifolia,R,
+B_L2,bc,low,2,6/6/2023,1,0-5,NA,NA,
+B_L2,bc,low,2,6/6/2023,1,10-May,NA,NA,
+B_L2,bc,low,2,6/6/2023,1,15-Oct,NA,NA,
+B_L2,bc,low,2,6/6/2023,1,15-20,NA,NA,
+B_L2,bc,low,2,6/6/2023,1,20-25,NA,NA,
+B_L2,bc,low,2,6/6/2023,1,25-30,NA,NA,
+B_L2,bc,low,2,6/6/2023,1,30-35,NA,NA,
+B_L2,bc,low,2,6/6/2023,1,35-40,NA,NA,
+B_L2,bc,low,2,6/6/2023,1,40-45,Androsace septentrionalis,O,
+B_L2,bc,low,2,6/6/2023,1,45-50,NA,NA,
+B_L2,bc,low,2,6/6/2023,2,0-5,NA,NA,
+B_L2,bc,low,2,6/6/2023,2,10-May,NA,NA,
+B_L2,bc,low,2,6/6/2023,2,15-Oct,NA,NA,
+B_L2,bc,low,2,6/6/2023,2,15-20,NA,NA,
+B_L2,bc,low,2,6/6/2023,2,20-25,Antennaria parvifolia,O,
+B_L2,bc,low,2,6/6/2023,2,20-25,Oxytropis multiceps,R,
+B_L2,bc,low,2,6/6/2023,2,20-25,Mertensia lanceolata,R,
+B_L2,bc,low,2,6/6/2023,2,25-30,NA,NA,
+B_L2,bc,low,2,6/6/2023,2,30-35,NA,NA,
+B_L2,bc,low,2,6/6/2023,2,35-40,NA,NA,
+B_L2,bc,low,2,6/6/2023,2,40-45,NA,NA,
+B_L2,bc,low,2,6/6/2023,2,45-50,NA,NA,
+B_L1,bc,low,2,6/6/2023,1,0-5,Mertensia lanceolata,R,
+B_L1,bc,low,2,6/6/2023,1,10-May,NA,NA,
+B_L1,bc,low,2,6/6/2023,1,15-Oct,NA,NA,
+B_L1,bc,low,2,6/6/2023,1,15-20,NA,NA,
+B_L1,bc,low,2,6/6/2023,1,20-25,Androsace septentrionalis,R,
+B_L1,bc,low,2,6/6/2023,1,25-30,NA,NA,
+B_L1,bc,low,2,6/6/2023,1,30-35,NA,NA,
+B_L1,bc,low,2,6/6/2023,1,35-40,Androsace septentrionalis,R,
+B_L1,bc,low,2,6/6/2023,1,40-45,NA,NA,
+B_L1,bc,low,2,6/6/2023,1,45-50,NA,NA,
+B_L1,bc,low,2,6/6/2023,2,0-5,Mertensia lanceolata,R,
+B_L1,bc,low,2,6/6/2023,2,10-May,Androsace septentrionalis,R,
+B_L1,bc,low,2,6/6/2023,2,15-Oct,Antennaria parvifolia,R,
+B_L1,bc,low,2,6/6/2023,2,15-20,NA,NA,
+B_L1,bc,low,2,6/6/2023,2,20-25,NA,NA,
+B_L1,bc,low,2,6/6/2023,2,25-30,NA,NA,
+B_L1,bc,low,2,6/6/2023,2,30-35,NA,NA,
+B_L1,bc,low,2,6/6/2023,2,35-40,NA,NA,
+B_L1,bc,low,2,6/6/2023,2,40-45,NA,NA,
+B_L1,bc,low,2,6/6/2023,2,45-50,NA,NA,
+H_H3,hm,high,2,6/9/2023,1,0-5,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,1,10-May,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,1,15-Oct,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,1,15-20,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,1,20-25,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,1,25-30,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,1,30-35,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,1,35-40,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,1,40-45,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,1,45-50,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,2,0-5,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,2,10-May,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,2,15-Oct,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,2,15-20,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,2,20-25,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,2,25-30,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,2,30-35,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,2,35-40,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,2,40-45,NA,NA,no flowers
+H_H3,hm,high,2,6/9/2023,2,45-50,NA,NA,no flowers
+H_U1,hm,unburned,2,6/14/2023,1,0-5,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,1,10-May,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,1,15-Oct,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,1,15-20,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,1,20-25,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,1,25-30,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,1,30-35,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,1,35-40,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,1,40-45,Antennaria parvifolia,R,
+H_U1,hm,unburned,2,6/14/2023,1,45-50,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,2,0-5,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,2,10-May,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,2,15-Oct,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,2,15-20,Arctostaphylos uva-ursi,R,
+H_U1,hm,unburned,2,6/14/2023,2,20-25,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,2,25-30,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,2,30-35,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,2,35-40,NA,NA,
+H_U1,hm,unburned,2,6/14/2023,2,40-45,Arctostaphylos uva-ursi,R,
+H_U1,hm,unburned,2,6/14/2023,2,45-50,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,1,0-5,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,1,10-May,Androsace septentrionalis,O,
+H_U2,hm,unburned,2,6/14/2023,1,15-Oct,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,1,15-20,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,1,20-25,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,1,25-30,Arctostaphylos uva-ursi,R,
+H_U2,hm,unburned,2,6/14/2023,1,30-35,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,1,35-40,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,1,40-45,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,1,45-50,Antennaria parvifolia,R,
+H_U2,hm,unburned,2,6/14/2023,2,0-5,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,2,10-May,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,2,15-Oct,Arctostaphylos uva-ursi,O,
+H_U2,hm,unburned,2,6/14/2023,2,15-20,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,2,20-25,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,2,25-30,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,2,30-35,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,2,35-40,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,2,40-45,NA,NA,
+H_U2,hm,unburned,2,6/14/2023,2,45-50,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,1,0-5,Arctostaphylos uva-ursi,O,
+H_U3,hm,unburned,2,6/14/2023,1,10-May,Arctostaphylos uva-ursi,R,
+H_U3,hm,unburned,2,6/14/2023,1,15-Oct,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,1,15-20,Antennaria parvifolia,R,
+H_U3,hm,unburned,2,6/14/2023,1,20-25,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,1,25-30,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,1,30-35,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,1,35-40,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,1,40-45,Arctostaphylos uva-ursi,R,
+H_U3,hm,unburned,2,6/14/2023,1,45-50,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,2,0-5,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,2,10-May,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,2,15-Oct,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,2,15-20,Arctostaphylos uva-ursi,R,
+H_U3,hm,unburned,2,6/14/2023,2,20-25,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,2,25-30,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,2,30-35,Arctostaphylos uva-ursi,R,
+H_U3,hm,unburned,2,6/14/2023,2,35-40,Arctostaphylos uva-ursi,R,
+H_U3,hm,unburned,2,6/14/2023,2,40-45,NA,NA,
+H_U3,hm,unburned,2,6/14/2023,2,45-50,NA,NA,
+B_H3,bc,high,2,6/19/2023,1,0-5,NA,NA,
+B_H3,bc,high,2,6/19/2023,1,10-May,Oenothera coronopifolia,R,
+B_H3,bc,high,2,6/19/2023,1,15-Oct,NA,NA,
+B_H3,bc,high,2,6/19/2023,1,15-20,NA,NA,
+B_H3,bc,high,2,6/19/2023,1,20-25,NA,NA,
+B_H3,bc,high,2,6/19/2023,1,25-30,NA,NA,
+B_H3,bc,high,2,6/19/2023,1,30-35,NA,NA,
+B_H3,bc,high,2,6/19/2023,1,35-40,NA,NA,
+B_H3,bc,high,2,6/19/2023,1,40-45,NA,NA,
+B_H3,bc,high,2,6/19/2023,1,45-50,NA,NA,
+B_H3,bc,high,2,6/19/2023,2,0-5,NA,NA,
+B_H3,bc,high,2,6/19/2023,2,10-May,NA,NA,
+B_H3,bc,high,2,6/19/2023,2,15-Oct,NA,NA,
+B_H3,bc,high,2,6/19/2023,2,15-20,Scutellaria brittonii,R,
+B_H3,bc,high,2,6/19/2023,2,20-25,NA,NA,
+B_H3,bc,high,2,6/19/2023,2,25-30,NA,NA,
+B_H3,bc,high,2,6/19/2023,2,30-35,NA,NA,
+B_H3,bc,high,2,6/19/2023,2,35-40,NA,NA,
+B_H3,bc,high,2,6/19/2023,2,40-45,NA,NA,
+B_H3,bc,high,2,6/19/2023,2,45-50,NA,NA,
+B_H2,bc,high,2,6/19/2023,1,0-5,NA,NA,
+B_H2,bc,high,2,6/19/2023,1,10-May,NA,NA,
+B_H2,bc,high,2,6/19/2023,1,15-Oct,NA,NA,
+B_H2,bc,high,2,6/19/2023,1,15-20,NA,NA,
+B_H2,bc,high,2,6/19/2023,1,20-25,NA,NA,
+B_H2,bc,high,2,6/19/2023,1,25-30,NA,NA,
+B_H2,bc,high,2,6/19/2023,1,30-35,NA,NA,
+B_H2,bc,high,2,6/19/2023,1,35-40,NA,NA,
+B_H2,bc,high,2,6/19/2023,1,40-45,NA,NA,
+B_H2,bc,high,2,6/19/2023,1,45-50,NA,NA,
+B_H2,bc,high,2,6/19/2023,2,0-5,NA,NA,
+B_H2,bc,high,2,6/19/2023,2,10-May,Erigeron vetensis,R,
+B_H2,bc,high,2,6/19/2023,2,15-Oct,Erigeron vetensis,O,
+B_H2,bc,high,2,6/19/2023,2,15-20,Galium boreale,R,
+B_H2,bc,high,2,6/19/2023,2,20-25,NA,NA,
+B_H2,bc,high,2,6/19/2023,2,25-30,NA,NA,
+B_H2,bc,high,2,6/19/2023,2,30-35,NA,NA,
+B_H2,bc,high,2,6/19/2023,2,35-40,NA,NA,
+B_H2,bc,high,2,6/19/2023,2,40-45,NA,NA,
+B_H2,bc,high,2,6/19/2023,2,45-50,NA,NA,
+B_H1,bc,high,2,6/19/2023,1,0-5,NA,NA,
+B_H1,bc,high,2,6/19/2023,1,10-May,NA,NA,
+B_H1,bc,high,2,6/19/2023,1,15-Oct,NA,NA,
+B_H1,bc,high,2,6/19/2023,1,15-20,NA,NA,
+B_H1,bc,high,2,6/19/2023,1,20-25,NA,NA,
+B_H1,bc,high,2,6/19/2023,1,25-30,NA,NA,
+B_H1,bc,high,2,6/19/2023,1,30-35,NA,NA,
+B_H1,bc,high,2,6/19/2023,1,35-40,NA,NA,
+B_H1,bc,high,2,6/19/2023,1,40-45,NA,NA,
+B_H1,bc,high,2,6/19/2023,1,45-50,NA,NA,
+B_H1,bc,high,2,6/19/2023,2,0-5,NA,NA,
+B_H1,bc,high,2,6/19/2023,2,10-May,NA,NA,
+B_H1,bc,high,2,6/19/2023,2,15-Oct,NA,NA,
+B_H1,bc,high,2,6/19/2023,2,15-20,NA,NA,
+B_H1,bc,high,2,6/19/2023,2,20-25,NA,NA,
+B_H1,bc,high,2,6/19/2023,2,25-30,NA,NA,
+B_H1,bc,high,2,6/19/2023,2,30-35,Penstemon virens,R,
+B_H1,bc,high,2,6/19/2023,2,35-40,NA,NA,
+B_H1,bc,high,2,6/19/2023,2,40-45,NA,NA,
+B_H1,bc,high,2,6/19/2023,2,45-50,NA,NA,
+B_L2,bc,low,3,7/11/2023,1,0-5,NA,NA,
+B_L2,bc,low,3,7/11/2023,1,10-May,NA,NA,
+B_L2,bc,low,3,7/11/2023,1,15-Oct,NA,NA,
+B_L2,bc,low,3,7/11/2023,1,15-20,Sedum lanceolatum,R,
+B_L2,bc,low,3,7/11/2023,1,20-25,NA,NA,
+B_L2,bc,low,3,7/11/2023,1,25-30,NA,NA,
+B_L2,bc,low,3,7/11/2023,1,30-35,NA,NA,
+B_L2,bc,low,3,7/11/2023,1,35-40,NA,NA,
+B_L2,bc,low,3,7/11/2023,1,40-45,NA,NA,
+B_L2,bc,low,3,7/11/2023,1,45-50,Sedum lanceolatum,R,
+B_L2,bc,low,3,7/11/2023,2,0-5,NA,NA,
+B_L2,bc,low,3,7/11/2023,2,10-May,NA,NA,
+B_L2,bc,low,3,7/11/2023,2,15-Oct,NA,NA,
+B_L2,bc,low,3,7/11/2023,2,15-20,NA,NA,
+B_L2,bc,low,3,7/11/2023,2,20-25,NA,NA,
+B_L2,bc,low,3,7/11/2023,2,25-30,NA,NA,
+B_L2,bc,low,3,7/11/2023,2,30-35,NA,NA,
+B_L2,bc,low,3,7/11/2023,2,35-40,NA,NA,
+B_L2,bc,low,3,7/11/2023,2,40-45,Euphorbia brachycera,R,
+B_L2,bc,low,3,7/11/2023,2,45-50,NA,NA,
+B_H1,bc,high,3,7/12/2023,1,0-5,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,1,10-May,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,1,15-Oct,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,1,15-20,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,1,20-25,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,1,25-30,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,1,30-35,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,1,35-40,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,1,40-45,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,1,45-50,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,2,0-5,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,2,10-May,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,2,15-Oct,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,2,15-20,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,2,20-25,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,2,25-30,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,2,30-35,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,2,35-40,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,2,40-45,NA,NA,no flowers
+B_H1,bc,high,3,7/12/2023,2,45-50,NA,NA,no flowers
+B_L1,bc,low,3,7/11/2023,1,0-5,NA,NA,
+B_L1,bc,low,3,7/11/2023,1,10-May,NA,NA,
+B_L1,bc,low,3,7/11/2023,1,15-Oct,NA,NA,
+B_L1,bc,low,3,7/11/2023,1,15-20,NA,NA,
+B_L1,bc,low,3,7/11/2023,1,20-25,Packera fendleri,R,
+B_L1,bc,low,3,7/11/2023,1,25-30,NA,NA,
+B_L1,bc,low,3,7/11/2023,1,30-35,NA,NA,
+B_L1,bc,low,3,7/11/2023,1,35-40,NA,NA,
+B_L1,bc,low,3,7/11/2023,1,40-45,NA,NA,
+B_L1,bc,low,3,7/11/2023,1,45-50,NA,NA,
+B_L1,bc,low,3,7/11/2023,2,0-5,NA,NA,
+B_L1,bc,low,3,7/11/2023,2,10-May,NA,NA,
+B_L1,bc,low,3,7/11/2023,2,15-Oct,NA,NA,
+B_L1,bc,low,3,7/11/2023,2,15-20,NA,NA,
+B_L1,bc,low,3,7/11/2023,2,20-25,NA,NA,
+B_L1,bc,low,3,7/11/2023,2,25-30,NA,NA,
+B_L1,bc,low,3,7/11/2023,2,30-35,Packera fendleri,R,
+B_L1,bc,low,3,7/11/2023,2,30-35,Galium boreale,R,
+B_L1,bc,low,3,7/11/2023,2,35-40,NA,NA,
+B_L1,bc,low,3,7/11/2023,2,40-45,NA,NA,
+B_L1,bc,low,3,7/11/2023,2,45-50,NA,NA,
+B_L3,bc,low,3,7/12/2023,1,0-5,Ipomopsis aggregata subsp. collina,R,
+B_L3,bc,low,3,7/12/2023,1,10-May,Astragalus miser,O,
+B_L3,bc,low,3,7/12/2023,1,15-Oct,NA,NA,
+B_L3,bc,low,3,7/12/2023,1,15-20,NA,NA,
+B_L3,bc,low,3,7/12/2023,1,20-25,NA,NA,
+B_L3,bc,low,3,7/12/2023,1,25-30,NA,NA,
+B_L3,bc,low,3,7/12/2023,1,30-35,Galium boreale,R,
+B_L3,bc,low,3,7/12/2023,1,35-40,NA,NA,
+B_L3,bc,low,3,7/12/2023,1,40-45,NA,NA,
+B_L3,bc,low,3,7/12/2023,1,45-50,NA,NA,
+B_L3,bc,low,3,7/12/2023,2,0-5,Sedum lanceolatum,R,
+B_L3,bc,low,3,7/12/2023,2,10-May,NA,NA,
+B_L3,bc,low,3,7/12/2023,2,15-Oct,NA,NA,
+B_L3,bc,low,3,7/12/2023,2,15-20,NA,NA,
+B_L3,bc,low,3,7/12/2023,2,20-25,NA,NA,
+B_L3,bc,low,3,7/12/2023,2,25-30,NA,NA,
+B_L3,bc,low,3,7/12/2023,2,30-35,NA,NA,
+B_L3,bc,low,3,7/12/2023,2,35-40,NA,NA,
+B_L3,bc,low,3,7/12/2023,2,40-45,NA,NA,
+B_L3,bc,low,3,7/12/2023,2,45-50,NA,NA,
+H_L1,hm,low,3,7/21/2023,1,0-5,NA,NA,
+H_L1,hm,low,3,7/21/2023,1,10-May,NA,NA,
+H_L1,hm,low,3,7/21/2023,1,15-Oct,NA,NA,
+H_L1,hm,low,3,7/21/2023,1,15-20,NA,NA,
+H_L1,hm,low,3,7/21/2023,1,20-25,NA,NA,
+H_L1,hm,low,3,7/21/2023,1,25-30,NA,NA,
+H_L1,hm,low,3,7/21/2023,1,30-35,NA,NA,
+H_L1,hm,low,3,7/21/2023,1,35-40,NA,NA,
+H_L1,hm,low,3,7/21/2023,1,40-45,NA,NA,
+H_L1,hm,low,3,7/21/2023,1,45-50,NA,NA,
+H_L1,hm,low,3,7/21/2023,2,0-5,Eremogone fendleri,R,
+H_L1,hm,low,3,7/21/2023,2,10-May,Eremogone fendleri,R,
+H_L1,hm,low,3,7/21/2023,2,15-Oct,Eremogone fendleri,R,
+H_L1,hm,low,3,7/21/2023,2,15-20,NA,NA,
+H_L1,hm,low,3,7/21/2023,2,20-25,NA,NA,
+H_L1,hm,low,3,7/21/2023,2,25-30,NA,NA,
+H_L1,hm,low,3,7/21/2023,2,30-35,NA,NA,
+H_L1,hm,low,3,7/21/2023,2,35-40,NA,NA,
+H_L1,hm,low,3,7/21/2023,2,40-45,Sedum lanceolatum,R,
+H_L1,hm,low,3,7/21/2023,2,45-50,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,1,0-5,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,1,10-May,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,1,15-Oct,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,1,15-20,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,1,20-25,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,1,25-30,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,1,30-35,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,1,35-40,Geranium caespitosum,R,
+H_U3,hm,unburned,3,7/21/2023,1,40-45,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,1,45-50,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,2,0-5,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,2,10-May,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,2,15-Oct,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,2,15-20,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,2,20-25,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,2,25-30,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,2,30-35,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,2,35-40,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,2,40-45,NA,NA,
+H_U3,hm,unburned,3,7/21/2023,2,45-50,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,1,0-5,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,1,10-May,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,1,15-Oct,Geranium caespitosum,R,
+H_U1,hm,unburned,3,7/17/2023,1,15-20,Geranium caespitosum,R,
+H_U1,hm,unburned,3,7/17/2023,1,20-25,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,1,25-30,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,1,30-35,Eremogone fendleri,R,
+H_U1,hm,unburned,3,7/17/2023,1,30-35,Geranium caespitosum,R,
+H_U1,hm,unburned,3,7/17/2023,1,35-40,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,1,40-45,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,1,45-50,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,2,0-5,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,2,10-May,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,2,15-Oct,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,2,15-20,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,2,20-25,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,2,25-30,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,2,30-35,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,2,35-40,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,2,40-45,NA,NA,
+H_U1,hm,unburned,3,7/17/2023,2,45-50,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,1,0-5,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,1,10-May,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,1,15-Oct,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,1,15-20,Eremogone fendleri,R,
+H_U2,hm,unburned,3,7/17/2023,1,20-25,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,1,25-30,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,1,30-35,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,1,35-40,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,1,40-45,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,1,45-50,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,2,0-5,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,2,10-May,Eremogone fendleri,R,
+H_U2,hm,unburned,3,7/17/2023,2,15-Oct,Geranium caespitosum,R,
+H_U2,hm,unburned,3,7/17/2023,2,15-20,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,2,20-25,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,2,25-30,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,2,30-35,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,2,35-40,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,2,40-45,NA,NA,
+H_U2,hm,unburned,3,7/17/2023,2,45-50,NA,NA,
+H_H2,hm,high,3,6/21/2023,1,0-5,NA,NA,
+H_H2,hm,high,3,6/21/2023,1,10-May,NA,NA,
+H_H2,hm,high,3,6/21/2023,1,15-Oct,NA,NA,
+H_H2,hm,high,3,6/21/2023,1,15-20,NA,NA,
+H_H2,hm,high,3,6/21/2023,1,20-25,NA,NA,
+H_H2,hm,high,3,6/21/2023,1,25-30,NA,NA,
+H_H2,hm,high,3,6/21/2023,1,30-35,NA,NA,
+H_H2,hm,high,3,6/21/2023,1,35-40,Penstemon angustifolius,R,
+H_H2,hm,high,3,6/21/2023,1,40-45,NA,NA,
+H_H2,hm,high,3,6/21/2023,1,45-50,Penstemon angustifolius,O,
+H_H2,hm,high,3,6/21/2023,2,0-5,NA,NA,
+H_H2,hm,high,3,6/21/2023,2,10-May,Euphorbia brachycera,R,
+H_H2,hm,high,3,6/21/2023,2,15-Oct,NA,NA,
+H_H2,hm,high,3,6/21/2023,2,15-20,NA,NA,
+H_H2,hm,high,3,6/21/2023,2,20-25,NA,NA,
+H_H2,hm,high,3,6/21/2023,2,25-30,NA,NA,
+H_H2,hm,high,3,6/21/2023,2,30-35,NA,NA,
+H_H2,hm,high,3,6/21/2023,2,35-40,NA,NA,
+H_H2,hm,high,3,6/21/2023,2,40-45,NA,NA,
+H_H2,hm,high,3,6/21/2023,2,45-50,NA,NA,
+H_L1,hm,low,3,6/21/2023,1,0-5,NA,NA,
+H_L1,hm,low,3,6/21/2023,1,10-May,NA,NA,
+H_L1,hm,low,3,6/21/2023,1,15-Oct,NA,NA,
+H_L1,hm,low,3,6/21/2023,1,15-20,NA,NA,
+H_L1,hm,low,3,6/21/2023,1,20-25,NA,NA,
+H_L1,hm,low,3,6/21/2023,1,25-30,NA,NA,
+H_L1,hm,low,3,6/21/2023,1,30-35,NA,NA,
+H_L1,hm,low,3,6/21/2023,1,35-40,Antennaria parvifolia,R,
+H_L1,hm,low,3,6/21/2023,1,40-45,Antennaria parvifolia,R,
+H_L1,hm,low,3,6/21/2023,1,45-50,NA,NA,
+H_L1,hm,low,3,6/21/2023,2,0-5,NA,NA,
+H_L1,hm,low,3,6/21/2023,2,10-May,NA,NA,
+H_L1,hm,low,3,6/21/2023,2,15-Oct,NA,NA,
+H_L1,hm,low,3,6/21/2023,2,15-20,NA,NA,
+H_L1,hm,low,3,6/21/2023,2,20-25,NA,NA,
+H_L1,hm,low,3,6/21/2023,2,25-30,NA,NA,
+H_L1,hm,low,3,6/21/2023,2,30-35,NA,NA,
+H_L1,hm,low,3,6/21/2023,2,35-40,NA,NA,
+H_L1,hm,low,3,6/21/2023,2,40-45,NA,NA,
+H_L1,hm,low,3,6/21/2023,2,45-50,Androsace septentrionalis,R,
+H_H1,hm,high,3,6/21/2023,1,0-5,NA,NA,
+H_H1,hm,high,3,6/21/2023,1,10-May,NA,NA,
+H_H1,hm,high,3,6/21/2023,1,15-Oct,NA,NA,
+H_H1,hm,high,3,6/21/2023,1,15-20,Drymocallis fissa,R,
+H_H1,hm,high,3,6/21/2023,1,15-20,Packera fendleri,R,
+H_H1,hm,high,3,6/21/2023,1,20-25,NA,NA,
+H_H1,hm,high,3,6/21/2023,1,25-30,Packera fendleri,R,
+H_H1,hm,high,3,6/21/2023,1,30-35,NA,NA,
+H_H1,hm,high,3,6/21/2023,1,35-40,NA,NA,
+H_H1,hm,high,3,6/21/2023,1,40-45,NA,NA,
+H_H1,hm,high,3,6/21/2023,1,45-50,NA,NA,
+H_H1,hm,high,3,6/21/2023,2,0-5,NA,NA,
+H_H1,hm,high,3,6/21/2023,2,10-May,NA,NA,
+H_H1,hm,high,3,6/21/2023,2,15-Oct,NA,NA,
+H_H1,hm,high,3,6/21/2023,2,15-20,NA,NA,
+H_H1,hm,high,3,6/21/2023,2,20-25,NA,NA,
+H_H1,hm,high,3,6/21/2023,2,25-30,NA,NA,
+H_H1,hm,high,3,6/21/2023,2,30-35,NA,NA,
+H_H1,hm,high,3,6/21/2023,2,35-40,NA,NA,
+H_H1,hm,high,3,6/21/2023,2,40-45,NA,NA,
+H_H1,hm,high,3,6/21/2023,2,45-50,NA,NA,
+H_L3,hm,low,3,7/3/2023,1,0-5,NA,NA,
+H_L3,hm,low,3,7/3/2023,1,10-May,NA,NA,
+H_L3,hm,low,3,7/3/2023,1,15-Oct,NA,NA,
+H_L3,hm,low,3,7/3/2023,1,15-20,NA,NA,
+H_L3,hm,low,3,7/3/2023,1,20-25,NA,NA,
+H_L3,hm,low,3,7/3/2023,1,25-30,NA,NA,
+H_L3,hm,low,3,7/3/2023,1,30-35,NA,NA,
+H_L3,hm,low,3,7/3/2023,1,35-40,NA,NA,
+H_L3,hm,low,3,7/3/2023,1,40-45,NA,NA,
+H_L3,hm,low,3,7/3/2023,1,45-50,NA,NA,
+H_L3,hm,low,3,7/3/2023,2,0-5,NA,NA,
+H_L3,hm,low,3,7/3/2023,2,10-May,NA,NA,
+H_L3,hm,low,3,7/3/2023,2,15-Oct,NA,NA,
+H_L3,hm,low,3,7/3/2023,2,15-20,Sedum lanceolatum,R,
+H_L3,hm,low,3,7/3/2023,2,20-25,NA,NA,
+H_L3,hm,low,3,7/3/2023,2,25-30,Sedum lanceolatum,R,
+H_L3,hm,low,3,7/3/2023,2,30-35,Sedum lanceolatum,O,
+H_L3,hm,low,3,7/3/2023,2,35-40,Sedum lanceolatum,O,
+H_L3,hm,low,3,7/3/2023,2,40-45,NA,NA,
+H_L3,hm,low,3,7/3/2023,2,45-50,NA,NA,
+H_L2,hm,low,3,7/3/2023,1,0-5,NA,NA,
+H_L2,hm,low,3,7/3/2023,1,10-May,NA,NA,
+H_L2,hm,low,3,7/3/2023,1,15-Oct,Androsace septentrionalis,R,
+H_L2,hm,low,3,7/3/2023,1,15-20,NA,NA,
+H_L2,hm,low,3,7/3/2023,1,20-25,NA,NA,
+H_L2,hm,low,3,7/3/2023,1,25-30,NA,NA,
+H_L2,hm,low,3,7/3/2023,1,30-35,NA,NA,
+H_L2,hm,low,3,7/3/2023,1,35-40,NA,NA,
+H_L2,hm,low,3,7/3/2023,1,40-45,NA,NA,
+H_L2,hm,low,3,7/3/2023,1,45-50,NA,NA,
+H_L2,hm,low,3,7/3/2023,2,0-5,NA,NA,
+H_L2,hm,low,3,7/3/2023,2,10-May,Packera fendleri,R,
+H_L2,hm,low,3,7/3/2023,2,15-Oct,NA,NA,
+H_L2,hm,low,3,7/3/2023,2,15-20,NA,NA,
+H_L2,hm,low,3,7/3/2023,2,20-25,Antennaria parvifolia,R,
+H_L2,hm,low,3,7/3/2023,2,25-30,NA,NA,
+H_L2,hm,low,3,7/3/2023,2,30-35,NA,NA,
+H_L2,hm,low,3,7/3/2023,2,35-40,NA,NA,
+H_L2,hm,low,3,7/3/2023,2,40-45,NA,NA,
+H_L2,hm,low,3,7/3/2023,2,45-50,NA,NA,
+B_H2,bc,high,3,7/25/2023,1,0-5,NA,NA,
+B_H2,bc,high,3,7/25/2023,1,10-May,NA,NA,
+B_H2,bc,high,3,7/25/2023,1,15-Oct,Heterotheca villosa,R,
+B_H2,bc,high,3,7/25/2023,1,15-20,Solidago missouriensis,R,
+B_H2,bc,high,3,7/25/2023,1,20-25,Solidago missouriensis,R,
+B_H2,bc,high,3,7/25/2023,1,20-25,Erigeron subtrinervis,R,
+B_H2,bc,high,3,7/25/2023,1,25-30,Heterotheca villosa,R,
+B_H2,bc,high,3,7/25/2023,1,25-30,Erigeron subtrinervis,R,
+B_H2,bc,high,3,7/25/2023,1,25-30,Achillea millefolium,R,
+B_H2,bc,high,3,7/25/2023,1,30-35,Erigeron subtrinervis,O,
+B_H2,bc,high,3,7/25/2023,1,35-40,Erigeron subtrinervis,R,
+B_H2,bc,high,3,7/25/2023,1,40-45,Heterotheca villosa,R,
+B_H2,bc,high,3,7/25/2023,1,45-50,NA,NA,
+B_H2,bc,high,3,7/25/2023,2,0-5,Solidago missouriensis,O,
+B_H2,bc,high,3,7/25/2023,2,10-May,Achillea millefolium,R,
+B_H2,bc,high,3,7/25/2023,2,10-May,Heterotheca villosa,R,
+B_H2,bc,high,3,7/25/2023,2,15-Oct,Achillea millefolium,O,
+B_H2,bc,high,3,7/25/2023,2,15-Oct,Campanula rotundifolia,F,
+B_H2,bc,high,3,7/25/2023,2,15-20,Campanula rotundifolia,O,
+B_H2,bc,high,3,7/25/2023,2,15-20,Solidago missouriensis,O,
+B_H2,bc,high,3,7/25/2023,2,20-25,Solidago missouriensis,O,
+B_H2,bc,high,3,7/25/2023,2,25-30,Solidago missouriensis,R,
+B_H2,bc,high,3,7/25/2023,2,25-30,Erigeron subtrinervis,O,
+B_H2,bc,high,3,7/25/2023,2,30-35,NA,NA,
+B_H2,bc,high,3,7/25/2023,2,35-40,Achillea millefolium,R,
+B_H2,bc,high,3,7/25/2023,2,35-40,Campanula rotundifolia,O,
+B_H2,bc,high,3,7/25/2023,2,40-45,NA,NA,
+B_H2,bc,high,3,7/25/2023,2,45-50,Campanula rotundifolia,R,
+B_H3,bc,high,3,7/25/2023,1,0-5,Heterotheca villosa,R,
+B_H3,bc,high,3,7/25/2023,1,10-May,NA,NA,
+B_H3,bc,high,3,7/25/2023,1,15-Oct,NA,NA,
+B_H3,bc,high,3,7/25/2023,1,15-20,NA,NA,
+B_H3,bc,high,3,7/25/2023,1,20-25,NA,NA,
+B_H3,bc,high,3,7/25/2023,1,25-30,NA,NA,
+B_H3,bc,high,3,7/25/2023,1,30-35,Heterotheca villosa,F,
+B_H3,bc,high,3,7/25/2023,1,35-40,Heterotheca villosa,R,
+B_H3,bc,high,3,7/25/2023,1,40-45,NA,NA,
+B_H3,bc,high,3,7/25/2023,1,45-50,NA,NA,
+B_H3,bc,high,3,7/25/2023,2,0-5,Heterotheca villosa,D,
+B_H3,bc,high,3,7/25/2023,2,10-May,Heterotheca villosa,O,
+B_H3,bc,high,3,7/25/2023,2,10-May,Solidago missouriensis,R,
+B_H3,bc,high,3,7/25/2023,2,15-Oct,Heterotheca villosa,D,
+B_H3,bc,high,3,7/25/2023,2,15-20,Phacelia hastata,O,
+B_H3,bc,high,3,7/25/2023,2,20-25,NA,NA,
+B_H3,bc,high,3,7/25/2023,2,25-30,NA,NA,
+B_H3,bc,high,3,7/25/2023,2,30-35,Heterotheca villosa,F,
+B_H3,bc,high,3,7/25/2023,2,35-40,Heterotheca villosa,O,
+B_H3,bc,high,3,7/25/2023,2,40-45,Heterotheca villosa,F,
+B_H3,bc,high,3,7/25/2023,2,45-50,Heterotheca villosa,O,
+B_U3,bc,unburned,3,7/6/2023,1,0-5,NA,NA,
+B_U3,bc,unburned,3,7/6/2023,1,10-May,Antennaria parvifolia,R,
+B_U3,bc,unburned,3,7/6/2023,1,10-May,Erigeron flagellaris,R,
+B_U3,bc,unburned,3,7/6/2023,1,15-Oct,NA,NA,
+B_U3,bc,unburned,3,7/6/2023,1,15-20,Antennaria parvifolia,O,
+B_U3,bc,unburned,3,7/6/2023,1,20-25,Lupinus argenteus,R,
+B_U3,bc,unburned,3,7/6/2023,1,20-25,Trifolium repens,O,
+B_U3,bc,unburned,3,7/6/2023,1,20-25,Antennaria parvifolia,O,
+B_U3,bc,unburned,3,7/6/2023,1,25-30,Antennaria parvifolia,R,
+B_U3,bc,unburned,3,7/6/2023,1,30-35,Antennaria parvifolia,R,
+B_U3,bc,unburned,3,7/6/2023,1,35-40,Antennaria parvifolia,R,
+B_U3,bc,unburned,3,7/6/2023,1,35-40,Symphoricarpos albus,R,
+B_U3,bc,unburned,3,7/6/2023,1,40-45,Antennaria parvifolia,R,
+B_U3,bc,unburned,3,7/6/2023,1,40-45,Symphoricarpos albus,R,
+B_U3,bc,unburned,3,7/6/2023,1,45-50,Antennaria parvifolia,R,
+B_U3,bc,unburned,3,7/6/2023,1,45-50,Symphoricarpos albus,R,
+B_U3,bc,unburned,3,7/6/2023,1,45-50,Fragaria virginiana,R,
+B_U3,bc,unburned,3,7/6/2023,2,0-5,NA,NA,
+B_U3,bc,unburned,3,7/6/2023,2,10-May,NA,NA,
+B_U3,bc,unburned,3,7/6/2023,2,15-Oct,Antennaria parvifolia,R,
+B_U3,bc,unburned,3,7/6/2023,2,15-20,Trifolium repens,O,
+B_U3,bc,unburned,3,7/6/2023,2,15-20,Antennaria parvifolia,R,
+B_U3,bc,unburned,3,7/6/2023,2,20-25,Trifolium repens,R,
+B_U3,bc,unburned,3,7/6/2023,2,20-25,Lupinus argenteus,F,
+B_U3,bc,unburned,3,7/6/2023,2,20-25,Antennaria parvifolia,O,
+B_U3,bc,unburned,3,7/6/2023,2,25-30,Antennaria parvifolia,R,
+B_U3,bc,unburned,3,7/6/2023,2,30-35,Antennaria parvifolia,R,
+B_U3,bc,unburned,3,7/6/2023,2,35-40,NA,NA,
+B_U3,bc,unburned,3,7/6/2023,2,40-45,NA,NA,
+B_U3,bc,unburned,3,7/6/2023,2,45-50,Symphoricarpos albus,R,
+B_U2,bc,unburned,3,7/11/2023,1,0-5,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,1,10-May,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,1,15-Oct,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,1,15-20,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,1,20-25,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,1,25-30,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,1,30-35,Penstemon virens,R,
+B_U2,bc,unburned,3,7/11/2023,1,35-40,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,1,40-45,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,1,45-50,Sedum lanceolatum,O,
+B_U2,bc,unburned,3,7/11/2023,2,0-5,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,2,10-May,Erigeron sp.,O,
+B_U2,bc,unburned,3,7/11/2023,2,10-May,Sedum lanceolatum,R,
+B_U2,bc,unburned,3,7/11/2023,2,15-Oct,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,2,15-20,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,2,20-25,Potentilla hippiana,R,
+B_U2,bc,unburned,3,7/11/2023,2,25-30,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,2,30-35,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,2,35-40,Packera fendleri,O,
+B_U2,bc,unburned,3,7/11/2023,2,40-45,NA,NA,
+B_U2,bc,unburned,3,7/11/2023,2,45-50,NA,NA,
+H_H3,hm,high,3,7/3/2023,1,0-5,NA,NA,
+H_H3,hm,high,3,7/3/2023,1,10-May,NA,NA,
+H_H3,hm,high,3,7/3/2023,1,15-Oct,Geranium caespitosum,R,
+H_H3,hm,high,3,7/3/2023,1,15-20,NA,NA,
+H_H3,hm,high,3,7/3/2023,1,20-25,NA,NA,
+H_H3,hm,high,3,7/3/2023,1,25-30,NA,NA,
+H_H3,hm,high,3,7/3/2023,1,30-35,NA,NA,
+H_H3,hm,high,3,7/3/2023,1,35-40,NA,NA,
+H_H3,hm,high,3,7/3/2023,1,40-45,NA,NA,
+H_H3,hm,high,3,7/3/2023,1,45-50,NA,NA,
+H_H3,hm,high,3,7/3/2023,2,0-5,NA,NA,
+H_H3,hm,high,3,7/3/2023,2,10-May,NA,NA,
+H_H3,hm,high,3,7/3/2023,2,15-Oct,NA,NA,
+H_H3,hm,high,3,7/3/2023,2,15-20,NA,NA,
+H_H3,hm,high,3,7/3/2023,2,20-25,NA,NA,
+H_H3,hm,high,3,7/3/2023,2,25-30,NA,NA,
+H_H3,hm,high,3,7/3/2023,2,30-35,NA,NA,
+H_H3,hm,high,3,7/3/2023,2,35-40,NA,NA,
+H_H3,hm,high,3,7/3/2023,2,40-45,NA,NA,
+H_H3,hm,high,3,7/3/2023,2,45-50,Penstemon virens,R,
+B_U1,bc,unburned,3,7/6/2023,1,0-5,Penstemon virens,R,
+B_U1,bc,unburned,3,7/6/2023,1,10-May,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,1,15-Oct,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,1,15-20,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,1,20-25,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,1,25-30,Penstemon virens,R,
+B_U1,bc,unburned,3,7/6/2023,1,30-35,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,1,35-40,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,1,40-45,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,1,45-50,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,2,0-5,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,2,10-May,Penstemon virens,R,
+B_U1,bc,unburned,3,7/6/2023,2,15-Oct,Harbouria trachypleura,R,
+B_U1,bc,unburned,3,7/6/2023,2,15-Oct,Mertensia lanceolata,R,
+B_U1,bc,unburned,3,7/6/2023,2,15-20,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,2,20-25,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,2,25-30,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,2,30-35,Potentilla hippiana,R,
+B_U1,bc,unburned,3,7/6/2023,2,30-35,Penstemon virens,O,
+B_U1,bc,unburned,3,7/6/2023,2,35-40,Penstemon virens,R,
+B_U1,bc,unburned,3,7/6/2023,2,40-45,NA,NA,
+B_U1,bc,unburned,3,7/6/2023,2,45-50,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,1,0-5,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,1,10-May,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,1,15-Oct,Allium cernuum,O,
+B_U3,bc,unburned,4,8/3/2023,1,15-20,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,1,20-25,Erigeron flagellaris,R,
+B_U3,bc,unburned,4,8/3/2023,1,20-25,Trifolium repens,O,
+B_U3,bc,unburned,4,8/3/2023,1,25-30,Erigeron subtrinervis,R,
+B_U3,bc,unburned,4,8/3/2023,1,30-35,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,1,35-40,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,1,40-45,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,1,45-50,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,2,0-5,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,2,10-May,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,2,15-Oct,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,2,15-20,Trifolium repens,O,
+B_U3,bc,unburned,4,8/3/2023,2,20-25,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,2,25-30,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,2,30-35,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,2,35-40,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,2,40-45,NA,NA,
+B_U3,bc,unburned,4,8/3/2023,2,45-50,Campanula rotundifolia,R,
+B_U1,bc,unburned,4,8/3/2023,1,0-5,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,1,10-May,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,1,15-Oct,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,1,15-20,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,1,20-25,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,1,25-30,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,1,30-35,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,1,35-40,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,1,40-45,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,1,45-50,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,2,0-5,Campanula rotundifolia,R,
+B_U1,bc,unburned,4,8/3/2023,2,10-May,Allium cernuum,O,
+B_U1,bc,unburned,4,8/3/2023,2,15-Oct,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,2,15-20,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,2,20-25,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,2,25-30,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,2,30-35,Symphyotrichum porteri,R,
+B_U1,bc,unburned,4,8/3/2023,2,35-40,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,2,40-45,NA,NA,
+B_U1,bc,unburned,4,8/3/2023,2,45-50,NA,NA,
+H_H2,hm,high,4,7/27/2023,1,0-5,NA,NA,
+H_H2,hm,high,4,7/27/2023,1,10-May,NA,NA,
+H_H2,hm,high,4,7/27/2023,1,15-Oct,NA,NA,
+H_H2,hm,high,4,7/27/2023,1,15-20,NA,NA,
+H_H2,hm,high,4,7/27/2023,1,20-25,NA,NA,
+H_H2,hm,high,4,7/27/2023,1,25-30,NA,NA,
+H_H2,hm,high,4,7/27/2023,1,30-35,NA,NA,
+H_H2,hm,high,4,7/27/2023,1,35-40,NA,NA,
+H_H2,hm,high,4,7/27/2023,1,40-45,Heterotheca villosa,R,
+H_H2,hm,high,4,7/27/2023,1,45-50,NA,NA,
+H_H2,hm,high,4,7/27/2023,2,0-5,NA,NA,
+H_H2,hm,high,4,7/27/2023,2,10-May,NA,NA,
+H_H2,hm,high,4,7/27/2023,2,15-Oct,NA,NA,
+H_H2,hm,high,4,7/27/2023,2,15-20,NA,NA,
+H_H2,hm,high,4,7/27/2023,2,20-25,NA,NA,
+H_H2,hm,high,4,7/27/2023,2,25-30,NA,NA,
+H_H2,hm,high,4,7/27/2023,2,30-35,Eremogone fendleri,R,
+H_H2,hm,high,4,7/27/2023,2,35-40,Solidago missouriensis,O,
+H_H2,hm,high,4,7/27/2023,2,40-45,Heterotheca villosa,O,
+H_H2,hm,high,4,7/27/2023,2,45-50,Ipomopsis aggregata subsp. collina,R,
+H_H1,hm,high,4,7/27/2023,1,0-5,NA,NA,
+H_H1,hm,high,4,7/27/2023,1,10-May,NA,NA,
+H_H1,hm,high,4,7/27/2023,1,15-Oct,NA,NA,
+H_H1,hm,high,4,7/27/2023,1,15-20,NA,NA,
+H_H1,hm,high,4,7/27/2023,1,20-25,NA,NA,
+H_H1,hm,high,4,7/27/2023,1,25-30,Heterotheca villosa,O,
+H_H1,hm,high,4,7/27/2023,1,30-35,NA,NA,
+H_H1,hm,high,4,7/27/2023,1,35-40,NA,NA,
+H_H1,hm,high,4,7/27/2023,1,40-45,NA,NA,
+H_H1,hm,high,4,7/27/2023,1,45-50,NA,NA,
+H_H1,hm,high,4,7/27/2023,2,0-5,NA,NA,
+H_H1,hm,high,4,7/27/2023,2,10-May,NA,NA,
+H_H1,hm,high,4,7/27/2023,2,15-Oct,NA,NA,
+H_H1,hm,high,4,7/27/2023,2,15-20,NA,NA,
+H_H1,hm,high,4,7/27/2023,2,20-25,NA,NA,
+H_H1,hm,high,4,7/27/2023,2,25-30,NA,NA,
+H_H1,hm,high,4,7/27/2023,2,30-35,NA,NA,
+H_H1,hm,high,4,7/27/2023,2,35-40,NA,NA,
+H_H1,hm,high,4,7/27/2023,2,40-45,NA,NA,
+H_H1,hm,high,4,7/27/2023,2,45-50,NA,NA,
+H_L2,hm,low,4,7/31/2023,1,0-5,NA,NA,
+H_L2,hm,low,4,7/31/2023,1,10-May,NA,NA,
+H_L2,hm,low,4,7/31/2023,1,15-Oct,NA,NA,
+H_L2,hm,low,4,7/31/2023,1,15-20,NA,NA,
+H_L2,hm,low,4,7/31/2023,1,20-25,NA,NA,
+H_L2,hm,low,4,7/31/2023,1,25-30,NA,NA,
+H_L2,hm,low,4,7/31/2023,1,30-35,NA,NA,
+H_L2,hm,low,4,7/31/2023,1,35-40,NA,NA,
+H_L2,hm,low,4,7/31/2023,1,40-45,NA,NA,
+H_L2,hm,low,4,7/31/2023,1,45-50,NA,NA,
+H_L2,hm,low,4,7/31/2023,2,0-5,NA,NA,
+H_L2,hm,low,4,7/31/2023,2,10-May,NA,NA,
+H_L2,hm,low,4,7/31/2023,2,15-Oct,NA,NA,
+H_L2,hm,low,4,7/31/2023,2,15-20,NA,NA,
+H_L2,hm,low,4,7/31/2023,2,20-25,NA,NA,
+H_L2,hm,low,4,7/31/2023,2,25-30,NA,NA,
+H_L2,hm,low,4,7/31/2023,2,30-35,Solidago simplex,O,
+H_L2,hm,low,4,7/31/2023,2,35-40,NA,NA,
+H_L2,hm,low,4,7/31/2023,2,40-45,NA,NA,
+H_L2,hm,low,4,7/31/2023,2,45-50,NA,NA,
+H_L3,hm,low,4,7/31/2023,1,0-5,NA,NA,
+H_L3,hm,low,4,7/31/2023,1,10-May,NA,NA,
+H_L3,hm,low,4,7/31/2023,1,15-Oct,NA,NA,
+H_L3,hm,low,4,7/31/2023,1,15-20,NA,NA,
+H_L3,hm,low,4,7/31/2023,1,20-25,NA,NA,
+H_L3,hm,low,4,7/31/2023,1,25-30,NA,NA,
+H_L3,hm,low,4,7/31/2023,1,30-35,NA,NA,
+H_L3,hm,low,4,7/31/2023,1,35-40,NA,NA,
+H_L3,hm,low,4,7/31/2023,1,40-45,NA,NA,
+H_L3,hm,low,4,7/31/2023,1,45-50,NA,NA,
+H_L3,hm,low,4,7/31/2023,2,0-5,NA,NA,
+H_L3,hm,low,4,7/31/2023,2,10-May,NA,NA,
+H_L3,hm,low,4,7/31/2023,2,15-Oct,NA,NA,
+H_L3,hm,low,4,7/31/2023,2,15-20,NA,NA,
+H_L3,hm,low,4,7/31/2023,2,20-25,NA,NA,
+H_L3,hm,low,4,7/31/2023,2,25-30,NA,NA,
+H_L3,hm,low,4,7/31/2023,2,30-35,NA,NA,
+H_L3,hm,low,4,7/31/2023,2,35-40,NA,NA,
+H_L3,hm,low,4,7/31/2023,2,40-45,Eremogone fendleri,O,
+H_L3,hm,low,4,7/31/2023,2,45-50,NA,NA,
+H_H3,hm,high,4,7/31/2023,1,0-5,Heterotheca villosa,O,
+H_H3,hm,high,4,7/31/2023,1,10-May,Solidago nemoralis,O,
+H_H3,hm,high,4,7/31/2023,1,15-Oct,Solidago nemoralis,O,
+H_H3,hm,high,4,7/31/2023,1,15-Oct,Heterotheca villosa,D,
+H_H3,hm,high,4,7/31/2023,1,15-20,Solidago nemoralis,R,
+H_H3,hm,high,4,7/31/2023,1,20-25,NA,NA,
+H_H3,hm,high,4,7/31/2023,1,25-30,NA,NA,
+H_H3,hm,high,4,7/31/2023,1,30-35,NA,NA,
+H_H3,hm,high,4,7/31/2023,1,35-40,Eremogone fendleri,R,
+H_H3,hm,high,4,7/31/2023,1,35-40,Solidago nemoralis,O,
+H_H3,hm,high,4,7/31/2023,1,40-45,Heterotheca villosa,O,
+H_H3,hm,high,4,7/31/2023,1,40-45,Solidago nemoralis,R,
+H_H3,hm,high,4,7/31/2023,1,45-50,NA,NA,
+H_H3,hm,high,4,7/31/2023,2,0-5,Solidago nemoralis,O,
+H_H3,hm,high,4,7/31/2023,2,10-May,NA,NA,
+H_H3,hm,high,4,7/31/2023,2,15-Oct,NA,NA,
+H_H3,hm,high,4,7/31/2023,2,15-20,Heterotheca villosa,R,
+H_H3,hm,high,4,7/31/2023,2,20-25,Eremogone fendleri,R,
+H_H3,hm,high,4,7/31/2023,2,25-30,Astragalus miser,R,
+H_H3,hm,high,4,7/31/2023,2,25-30,Solidago nemoralis,O,
+H_H3,hm,high,4,7/31/2023,2,30-35,NA,NA,
+H_H3,hm,high,4,7/31/2023,2,35-40,Solidago nemoralis,F,
+H_H3,hm,high,4,7/31/2023,2,40-45,NA,NA,
+H_H3,hm,high,4,7/31/2023,2,45-50,Solidago nemoralis,R,
+B_H1,bc,high,4,8/17/2023,1,0-5,NA,NA,
+B_H1,bc,high,4,8/17/2023,1,10-May,NA,NA,
+B_H1,bc,high,4,8/17/2023,1,15-Oct,NA,NA,
+B_H1,bc,high,4,8/17/2023,1,15-20,NA,NA,
+B_H1,bc,high,4,8/17/2023,1,20-25,Heterotheca villosa,O,
+B_H1,bc,high,4,8/17/2023,1,25-30,NA,NA,
+B_H1,bc,high,4,8/17/2023,1,30-35,NA,NA,
+B_H1,bc,high,4,8/17/2023,1,35-40,NA,NA,
+B_H1,bc,high,4,8/17/2023,1,40-45,NA,NA,
+B_H1,bc,high,4,8/17/2023,1,45-50,NA,NA,
+B_H1,bc,high,4,8/17/2023,2,0-5,NA,NA,
+B_H1,bc,high,4,8/17/2023,2,10-May,NA,NA,
+B_H1,bc,high,4,8/17/2023,2,15-Oct,NA,NA,
+B_H1,bc,high,4,8/17/2023,2,15-20,NA,NA,
+B_H1,bc,high,4,8/17/2023,2,20-25,NA,NA,
+B_H1,bc,high,4,8/17/2023,2,25-30,NA,NA,
+B_H1,bc,high,4,8/17/2023,2,30-35,NA,NA,
+B_H1,bc,high,4,8/17/2023,2,35-40,NA,NA,
+B_H1,bc,high,4,8/17/2023,2,40-45,NA,NA,
+B_H1,bc,high,4,8/17/2023,2,45-50,NA,NA,
+B_L3,bc,low,4,8/17/2023,1,0-5,Heterotheca villosa,R,
+B_L3,bc,low,4,8/17/2023,1,10-May,NA,NA,
+B_L3,bc,low,4,8/17/2023,1,15-Oct,NA,NA,
+B_L3,bc,low,4,8/17/2023,1,15-20,NA,NA,
+B_L3,bc,low,4,8/17/2023,1,20-25,NA,NA,
+B_L3,bc,low,4,8/17/2023,1,25-30,NA,NA,
+B_L3,bc,low,4,8/17/2023,1,30-35,NA,NA,
+B_L3,bc,low,4,8/17/2023,1,35-40,NA,NA,
+B_L3,bc,low,4,8/17/2023,1,40-45,NA,NA,
+B_L3,bc,low,4,8/17/2023,1,45-50,Heterotheca villosa,O,
+B_L3,bc,low,4,8/17/2023,2,0-5,NA,NA,
+B_L3,bc,low,4,8/17/2023,2,10-May,NA,NA,
+B_L3,bc,low,4,8/17/2023,2,15-Oct,Heterotheca villosa,R,
+B_L3,bc,low,4,8/17/2023,2,15-20,NA,NA,
+B_L3,bc,low,4,8/17/2023,2,20-25,NA,NA,
+B_L3,bc,low,4,8/17/2023,2,25-30,Symphyotrichum porteri,R,
+B_L3,bc,low,4,8/17/2023,2,30-35,NA,NA,
+B_L3,bc,low,4,8/17/2023,2,35-40,NA,NA,
+B_L3,bc,low,4,8/17/2023,2,40-45,NA,NA,
+B_L3,bc,low,4,8/17/2023,2,45-50,NA,NA,
+B_H2,bc,high,4,8/14/2023,1,0-5,Achillea millefolium,R,
+B_H2,bc,high,4,8/14/2023,1,10-May,Solidago velutina,R,
+B_H2,bc,high,4,8/14/2023,1,15-Oct,Erigeron subtrinervis,R,
+B_H2,bc,high,4,8/14/2023,1,15-20,NA,NA,
+B_H2,bc,high,4,8/14/2023,1,20-25,NA,NA,
+B_H2,bc,high,4,8/14/2023,1,25-30,NA,NA,
+B_H2,bc,high,4,8/14/2023,1,30-35,Achillea millefolium,R,
+B_H2,bc,high,4,8/14/2023,1,30-35,Solidago missouriensis,O,
+B_H2,bc,high,4,8/14/2023,1,35-40,NA,NA,
+B_H2,bc,high,4,8/14/2023,1,40-45,Phacelia hastata,R,
+B_H2,bc,high,4,8/14/2023,1,45-50,Aliciella pinnatifida,R,
+B_H2,bc,high,4,8/14/2023,2,0-5,Solidago missouriensis,O,
+B_H2,bc,high,4,8/14/2023,2,10-May,Solidago missouriensis,R,
+B_H2,bc,high,4,8/14/2023,2,15-Oct,NA,NA,
+B_H2,bc,high,4,8/14/2023,2,15-20,Erigeron subtrinervis,O,
+B_H2,bc,high,4,8/14/2023,2,20-25,Erigeron subtrinervis,O,
+B_H2,bc,high,4,8/14/2023,2,25-30,Erigeron subtrinervis,O,
+B_H2,bc,high,4,8/14/2023,2,30-35,Heterotheca villosa,O,
+B_H2,bc,high,4,8/14/2023,2,30-35,Campanula rotundifolia,R,
+B_H2,bc,high,4,8/14/2023,2,35-40,Erigeron subtrinervis,F,
+B_H2,bc,high,4,8/14/2023,2,35-40,Solidago missouriensis,O,
+B_H2,bc,high,4,8/14/2023,2,40-45,Campanula rotundifolia,R,
+B_H2,bc,high,4,8/14/2023,2,40-45,Achillea millefolium,R,
+B_H2,bc,high,4,8/14/2023,2,45-50,NA,NA,
+B_H3,bc,high,4,8/14/2023,1,0-5,NA,NA,
+B_H3,bc,high,4,8/14/2023,1,10-May,Artemisia frigida,R,
+B_H3,bc,high,4,8/14/2023,1,15-Oct,Solidago missouriensis,F,
+B_H3,bc,high,4,8/14/2023,1,15-20,NA,NA,
+B_H3,bc,high,4,8/14/2023,1,20-25,Heterotheca villosa,R,
+B_H3,bc,high,4,8/14/2023,1,25-30,NA,NA,
+B_H3,bc,high,4,8/14/2023,1,30-35,Heterotheca villosa,O,
+B_H3,bc,high,4,8/14/2023,1,35-40,NA,NA,
+B_H3,bc,high,4,8/14/2023,1,40-45,Hymenothrix dissecta,R,
+B_H3,bc,high,4,8/14/2023,1,45-50,NA,NA,
+B_H3,bc,high,4,8/14/2023,2,0-5,NA,NA,
+B_H3,bc,high,4,8/14/2023,2,10-May,Heterotheca villosa,R,
+B_H3,bc,high,4,8/14/2023,2,15-Oct,NA,NA,
+B_H3,bc,high,4,8/14/2023,2,15-20,Heterotheca villosa,R,
+B_H3,bc,high,4,8/14/2023,2,20-25,NA,NA,
+B_H3,bc,high,4,8/14/2023,2,25-30,NA,NA,
+B_H3,bc,high,4,8/14/2023,2,30-35,Heterotheca villosa,O,
+B_H3,bc,high,4,8/14/2023,2,35-40,Heterotheca villosa,F,
+B_H3,bc,high,4,8/14/2023,2,40-45,Heterotheca villosa,R,
+B_H3,bc,high,4,8/14/2023,2,45-50,Heterotheca villosa,F,
+B_L1,bc,low,4,8/10/2023,1,0-5,NA,NA,
+B_L1,bc,low,4,8/10/2023,1,10-May,Campanula rotundifolia,R,
+B_L1,bc,low,4,8/10/2023,1,15-Oct,Campanula rotundifolia,R,
+B_L1,bc,low,4,8/10/2023,1,15-20,NA,NA,
+B_L1,bc,low,4,8/10/2023,1,20-25,NA,NA,
+B_L1,bc,low,4,8/10/2023,1,25-30,NA,NA,
+B_L1,bc,low,4,8/10/2023,1,30-35,NA,NA,
+B_L1,bc,low,4,8/10/2023,1,35-40,NA,NA,
+B_L1,bc,low,4,8/10/2023,1,40-45,NA,NA,
+B_L1,bc,low,4,8/10/2023,1,45-50,NA,NA,
+B_L1,bc,low,4,8/10/2023,2,0-5,NA,NA,
+B_L1,bc,low,4,8/10/2023,2,10-May,NA,NA,
+B_L1,bc,low,4,8/10/2023,2,15-Oct,NA,NA,
+B_L1,bc,low,4,8/10/2023,2,15-20,NA,NA,
+B_L1,bc,low,4,8/10/2023,2,20-25,NA,NA,
+B_L1,bc,low,4,8/10/2023,2,25-30,NA,NA,
+B_L1,bc,low,4,8/10/2023,2,30-35,NA,NA,
+B_L1,bc,low,4,8/10/2023,2,35-40,NA,NA,
+B_L1,bc,low,4,8/10/2023,2,40-45,NA,NA,
+B_L1,bc,low,4,8/10/2023,2,45-50,NA,NA,
+B_L2,bc,low,4,8/10/2023,1,0-5,NA,NA,
+B_L2,bc,low,4,8/10/2023,1,10-May,NA,NA,
+B_L2,bc,low,4,8/10/2023,1,15-Oct,NA,NA,
+B_L2,bc,low,4,8/10/2023,1,15-20,NA,NA,
+B_L2,bc,low,4,8/10/2023,1,20-25,NA,NA,
+B_L2,bc,low,4,8/10/2023,1,25-30,Heterotheca villosa,R,
+B_L2,bc,low,4,8/10/2023,1,30-35,Heterotheca villosa,R,
+B_L2,bc,low,4,8/10/2023,1,35-40,NA,NA,
+B_L2,bc,low,4,8/10/2023,1,40-45,NA,NA,
+B_L2,bc,low,4,8/10/2023,1,45-50,NA,NA,
+B_L2,bc,low,4,8/10/2023,2,0-5,Heterotheca villosa,O,
+B_L2,bc,low,4,8/10/2023,2,10-May,Heterotheca villosa,F,
+B_L2,bc,low,4,8/10/2023,2,15-Oct,Heterotheca villosa,R,
+B_L2,bc,low,4,8/10/2023,2,15-20,NA,NA,
+B_L2,bc,low,4,8/10/2023,2,20-25,NA,NA,
+B_L2,bc,low,4,8/10/2023,2,25-30,Heterotheca villosa,R,
+B_L2,bc,low,4,8/10/2023,2,30-35,NA,NA,
+B_L2,bc,low,4,8/10/2023,2,35-40,NA,NA,
+B_L2,bc,low,4,8/10/2023,2,40-45,NA,NA,
+B_L2,bc,low,4,8/10/2023,2,45-50,NA,NA,
+H_U1,hm,unburned,4,8/10/2023,1,0-5,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,1,10-May,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,1,15-Oct,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,1,15-20,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,1,20-25,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,1,25-30,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,1,30-35,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,1,35-40,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,1,40-45,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,1,45-50,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,2,0-5,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,2,10-May,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,2,15-Oct,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,2,15-20,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,2,20-25,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,2,25-30,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,2,30-35,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,2,35-40,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,2,40-45,NA,NA,no flowers
+H_U1,hm,unburned,4,8/10/2023,2,45-50,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,1,0-5,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,1,10-May,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,1,15-Oct,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,1,15-20,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,1,20-25,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,1,25-30,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,1,30-35,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,1,35-40,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,1,40-45,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,1,45-50,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,2,0-5,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,2,10-May,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,2,15-Oct,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,2,15-20,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,2,20-25,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,2,25-30,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,2,30-35,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,2,35-40,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,2,40-45,NA,NA,no flowers
+H_U2,hm,unburned,4,8/8/2023,2,45-50,NA,NA,no flowers
+H_U3,hm,unburned,4,8/8/2023,1,0-5,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,1,10-May,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,1,15-Oct,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,1,15-20,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,1,20-25,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,1,25-30,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,1,30-35,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,1,35-40,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,1,40-45,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,1,45-50,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,2,0-5,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,2,10-May,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,2,15-Oct,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,2,15-20,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,2,20-25,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,2,25-30,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,2,30-35,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,2,35-40,NA,NA,
+H_U3,hm,unburned,4,8/8/2023,2,40-45,Geranium caespitosum,R,
+H_U3,hm,unburned,4,8/8/2023,2,45-50,NA,NA,
